@@ -1,1 +1,28 @@
-<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/></root></mxGraphModel>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
+  <diagram name="Page-1" id="ft6Dak35YB7YMGcHiVMh">
+    <mxGraphModel dx="1042" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-uI5xv_ZlBJ2iA-XSNuh-1" value="&lt;b&gt;MySQL&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-uI5xv_ZlBJ2iA-XSNuh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-uI5xv_ZlBJ2iA-XSNuh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-uI5xv_ZlBJ2iA-XSNuh-2" target="-uI5xv_ZlBJ2iA-XSNuh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-uI5xv_ZlBJ2iA-XSNuh-4" value="&lt;b&gt;DB Server&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-uI5xv_ZlBJ2iA-XSNuh-5" value="&lt;b&gt;App/Backend Server&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-uI5xv_ZlBJ2iA-XSNuh-7" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.nodejs_performance_platform;" vertex="1" parent="1">
+          <mxGeometry x="308.98" y="150" width="62.03" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
