@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Page-1" id="xi9nCvIinVcpnaGFHo7J">
+    <mxGraphModel dx="1042" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TqcxXpmtm-n4gvc1bOFA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TqcxXpmtm-n4gvc1bOFA-1" target="TqcxXpmtm-n4gvc1bOFA-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="55" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TqcxXpmtm-n4gvc1bOFA-1" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="166.67" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TqcxXpmtm-n4gvc1bOFA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TqcxXpmtm-n4gvc1bOFA-2" target="TqcxXpmtm-n4gvc1bOFA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TqcxXpmtm-n4gvc1bOFA-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="166.67" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TqcxXpmtm-n4gvc1bOFA-3" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="166.67" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TqcxXpmtm-n4gvc1bOFA-5" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.remote_storage;" vertex="1" parent="1">
+          <mxGeometry x="303.4" y="10" width="99.87" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TqcxXpmtm-n4gvc1bOFA-7" value="&lt;b&gt;apply&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TqcxXpmtm-n4gvc1bOFA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.787;entryY=0.442;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TqcxXpmtm-n4gvc1bOFA-3" target="TqcxXpmtm-n4gvc1bOFA-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
