@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Page-1" id="kfQVyuvJjMnIyKn5fk-x">
+    <mxGraphModel dx="1042" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VHOZho80c-FRoIl4UP61-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="40" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VHOZho80c-FRoIl4UP61-2" value="&lt;b&gt;terraform modules&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="10" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VHOZho80c-FRoIl4UP61-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VHOZho80c-FRoIl4UP61-4" value="&lt;b&gt;roboshop-infra-dev&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VHOZho80c-FRoIl4UP61-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VHOZho80c-FRoIl4UP61-3" target="VHOZho80c-FRoIl4UP61-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHOZho80c-FRoIl4UP61-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VHOZho80c-FRoIl4UP61-7" value="&lt;b&gt;roboshop-infra-prod&lt;/b&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="270" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VHOZho80c-FRoIl4UP61-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VHOZho80c-FRoIl4UP61-6" target="VHOZho80c-FRoIl4UP61-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="200" />
+              <mxPoint x="540" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
