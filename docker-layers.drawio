@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.0">
+  <diagram name="Page-1" id="FpugxVCsYP01oxTs27hC">
+    <mxGraphModel dx="2276" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ij8WTh0maibY1gn2M1LQ-2" edge="1" parent="1" source="ij8WTh0maibY1gn2M1LQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ij8WTh0maibY1gn2M1LQ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="&lt;b&gt;FROM nodejs:20-alpine&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="-240" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ij8WTh0maibY1gn2M1LQ-10" edge="1" parent="1" source="ij8WTh0maibY1gn2M1LQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ij8WTh0maibY1gn2M1LQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ij8WTh0maibY1gn2M1LQ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="&lt;b&gt;FROM nodejs:20-alpine&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="-130" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ij8WTh0maibY1gn2M1LQ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;WORKDIR&lt;/span&gt; /opt/server&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="-130" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ij8WTh0maibY1gn2M1LQ-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;intermediate container&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="-130" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ij8WTh0maibY1gn2M1LQ-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;6178e78b972f&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-190" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="ij8WTh0maibY1gn2M1LQ-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;1ecd4f0cec16&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-40" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ij8WTh0maibY1gn2M1LQ-11" edge="1" parent="1" source="ij8WTh0maibY1gn2M1LQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ij8WTh0maibY1gn2M1LQ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="&lt;b&gt;2509c5c9dc59&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="30" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ij8WTh0maibY1gn2M1LQ-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: #569cd6;&quot;&gt;COPY&lt;/span&gt; package.json .&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="160" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
