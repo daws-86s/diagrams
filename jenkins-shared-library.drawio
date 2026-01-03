@@ -1,0 +1,38 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Page-1" id="305G9MPGDoDfUYb_UFVG">
+    <mxGraphModel dx="850" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M7VcJz3s8AzVXM6V2AOK-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="80" width="240" x="280" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M7VcJz3s8AzVXM6V2AOK-8" edge="1" parent="1" source="M7VcJz3s8AzVXM6V2AOK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="M7VcJz3s8AzVXM6V2AOK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M7VcJz3s8AzVXM6V2AOK-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;jenkins-shared-library&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="315" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M7VcJz3s8AzVXM6V2AOK-3" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_pipeline;" value="" vertex="1">
+          <mxGeometry height="42" width="78" x="361" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="M7VcJz3s8AzVXM6V2AOK-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;catalogue&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="M7VcJz3s8AzVXM6V2AOK-5" edge="1" parent="1" source="M7VcJz3s8AzVXM6V2AOK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.015;entryY=0.402;entryDx=0;entryDy=0;entryPerimeter=0;" target="M7VcJz3s8AzVXM6V2AOK-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="112" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M7VcJz3s8AzVXM6V2AOK-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;parameters&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="150" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="M7VcJz3s8AzVXM6V2AOK-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="&lt;b&gt;Jenkins&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="-100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
